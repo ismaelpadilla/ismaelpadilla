@@ -9,7 +9,7 @@ I'm a computer engineer from Uruguay. I'm always learning new stuff, hacking awa
 
 ### About me
 
-- 🏢 I'm a Sr Software Engineer at Mercado Libre.
+- 🏢 I'm a Tech Lead at Mercado Libre.
 - 💻 [neovim](https://github.com/neovim/neovim) is my editor of choice while not using Java.
 - ❤ In love with Go and Rust.
 - 🐧 I use Linux (Manjaro) with [i3](https://i3wm.org/).
